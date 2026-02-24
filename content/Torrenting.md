@@ -5,7 +5,7 @@
 Use vpn if you are scared but downloading is fine without it. Always check the files you download! Music and movie files are generally safe but exe files hit or miss.
 ### Torrent Sites
 
-- **1337x** - Bad site for searching, downloads file without consent, Seed/Leechers count is inaccurate, content is okay
+- [**1337x**](https://1337x.to/home/) - Bad site for searching, downloads file without consent, Seed/Leechers count is inaccurate, content is okay
 - **Ext** - Torrent aggregator site, UI is nice
 - **Piratebay Proxies** - Simple and easy to use tbh I always go back to this
 

@@ -1,3 +1,5 @@
+>[!info] Note
+>Credits to [**@aamiaa**](https://gist.github.com/aamiaa) for the code! Click [here](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb) for the original tutorial at github. This is just a rewrite with added preliminary steps for **enabling devtools** and **allowing pasting**!
 ### > Make sure your discord devtools settings is enabled
 
 1. Go to your discord folder commonly at this path (replace username with yours)
@@ -5,9 +7,7 @@
 	`C:\Users\username\AppData\Roaming\discord`
 
 2. Find **settings.json**
-
 3. Open file with text editor.
-
 4. Add this to the file.
 
 	`"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true`
@@ -15,18 +15,14 @@
 5. Save the file.
 
 ### > Tricking Discord into thinking we are playing!
-
-credits to **@aamiaa**! click [here](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb) for the original tutorial at github!
-
+ 
 1. Accept any quest you like...
-
 2. Press `Ctrl+Shift+I` to open DevTools
-
-3. Go to the Console tab
-
-4. Paste [this](file:///src/discord-quest.txt) and hit enter
-
-5. Wait and claim
+3. Type `allow pasting` in the console 
+4. Go to the Console tab
+5. Go to the Github [repository](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb) and press `> click to expand`
+6. Copy everything and paste it in the console. Do not be afraid of the first line it won't delete your system.
+7. Wait and claim
 
 >[!faq] Troubleshooting
 > - ***I can't open console.***

@@ -17,8 +17,7 @@
 - 
 
 ### Torrents
+Check [[Torrenting]] page.
 
-- 1337x
-- Piratebay Dangerous use adblockers and check files before downloading
 
 

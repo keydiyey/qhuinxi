@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Qhuinxi's Directory
 ---
+These are a compilation of websites, apps, softwares, scripts, etc. over the years that I am **personally** using.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+First and foremost, 
+- Brother in Christ, get an [adblocker](Browsers#Extensions).
+- Don't cheat on Microsoft Defender. It is enough.
