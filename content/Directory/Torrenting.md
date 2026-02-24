@@ -3,7 +3,7 @@
 > [**QBitorrent**](https://www.qbittorrent.org/) is the only software I will ever use for torrenting
 
 Use vpn if you are scared but downloading is fine without it. Always check the files you download! Music and movie files are generally safe but exe files are a hit or miss.
-### Torrent Sites
+# Torrent Sites
 
 - [**1337x**](https://1337x.to/home/) - Bad site for searching, downloads file without consent, Seed/Leechers count is inaccurate, content is okay
 - **Ext** - Torrent aggregator site, UI is nice

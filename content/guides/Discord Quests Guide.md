@@ -1,6 +1,6 @@
 >[!info] Note
 >Credits to [**@aamiaa**](https://gist.github.com/aamiaa) for the code! Click [here](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb) for the original tutorial at github. This is just a rewrite with added preliminary steps for **enabling devtools** and **allowing pasting**!
-### > Make sure your discord devtools settings is enabled
+# Make sure your discord devtools settings is enabled
 
 1. Go to your discord folder commonly at this path (replace username with yours)
 
@@ -14,7 +14,7 @@
 
 5. Save the file.
 
-### > Tricking Discord into thinking we are playing!
+# Tricking Discord into thinking we are playing!
  
 1. Accept any quest you like...
 2. Press `Ctrl+Shift+I` to open DevTools

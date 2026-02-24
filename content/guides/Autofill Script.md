@@ -52,7 +52,7 @@ const checkPageReady = setInterval(() =>{
 if (document.readyState === "complete"){ }
 ```
 
-## Clicking the Dropdown
+# Clicking the Dropdown
  
  Since elements are hidden within dropdowns, we cannot crawl to the input boxes without opening it. This function opens the button if it is closed. 
  

@@ -1,11 +1,11 @@
 
 For adding subtitles, Subtitle Editor is the fastest and easiest software to use. It downloads and installs the required software automatically. You can also preview the file before exporting it.
-## Using Subtitle Editor
+# Using Subtitle Editor
 
 1. 
 
 
-## Using MKVToolNix
+# Using MKVToolNix
 
 For **softcoding** subtitles, I think **mkvtoolnix** is faster than **handbrake** since it does not reencode the whole thing.
 

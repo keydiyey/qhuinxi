@@ -1,4 +1,4 @@
-### Quick Guide to Browsers
+# Quick Guide to Browsers
 
 This should not be hard! It is basically *"Does Google Have Hands on my Data?!"* and *"Is it pretty?"*
 
@@ -16,7 +16,7 @@ Don't let the following lure you into their trap no matter how nice their advert
 > - **Baidu**
 > - **Brave**
 
-### Extensions
+# Extensions
 
 These are the some of the main extensions to remove ads from your browser
 
@@ -26,7 +26,7 @@ These are the some of the main extensions to remove ads from your browser
 - [TamperMonkey](https://www.tampermonkey.net/)     Patches your browser with userscripts
 - [Indie Wiki Buddy](https://getindie.wiki/)   Changes *fandom.wiki* links to independent ones
 
-### Search Sites?
+# Search Sites?
 
 - [Google](https://www.google.com/) Bad site but the ecosystem got me
 - [Bing](https://www.bing.com/) I only use it for rewards but lately they don't have anything worthwhile

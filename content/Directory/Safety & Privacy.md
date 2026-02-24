@@ -1,9 +1,9 @@
 
-## Antivirus
+# Antivirus
 - Windows Defender
 - Malwarebytes
 
-## Password Managers
+# Password Managers
 - KeePass
 
 
