@@ -18,9 +18,3 @@ For **softcoding** subtitles, I think **mkvtoolnix** is faster than **handbrake*
 3. Rename output file (*optional*)
 4. Start Encode
 
-## Using Handbrake
-
->[!Warning]
-> I do not recommend handbrake for adding subtitles since it takes so long. It also takes up a lot of resources.
-
-1. Open Handbrake

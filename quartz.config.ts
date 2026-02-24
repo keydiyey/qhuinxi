@@ -16,20 +16,28 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: ".xyz",
+    baseUrl: "https://keydiyey.github.io/qhuinxi",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
+        title: "IBM PLex Mono",
+        header: "Anonymous Pro",
         body: "Anonymous Pro",
         code: "IBM Plex Mono",
       },
       colors: {
+        // Light page background
+        // llight gray borders
+        // gray: graph links, heavier borders
+        // darkgray: body text
+        // dark: header text and icons
+        // secondary: link colour, current graph node
+        //
         lightMode: {
-          light: "#faf8f8",
+          light: "#F1F7ED", 
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
@@ -40,12 +48,12 @@ const config: QuartzConfig = {
           textHighlight: "#e0d31cc9",
         },
         darkMode: {
-          light: "#161618",
+          light: "#141115",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
+          secondary: "#70EE9C",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",

@@ -78,11 +78,11 @@ article {
 }
 
 strong {
-  font-weight: $semiBoldWeight;
+  font-weight: $boldWeight;
 }
 
 a {
-  font-weight: $semiBoldWeight;
+  font-weight: $boldWeight;
   text-decoration: none;
   transition: color 0.2s ease;
   color: var(--secondary);

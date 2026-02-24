@@ -22,7 +22,7 @@ These are the some of the main extensions to remove ads from your browser
 
 - [UBlock Origin](https://ublockorigin.com/)   Blocks ads <3
 - [SponsorBlock](https://sponsor.ajay.app/)         Automatically  skips sponsor contents in youtube
-- [ClearURLs](https://docs.clearurls.xyz/1.23.0/#download)**           Removes tracking from links
+- [ClearURLs](https://docs.clearurls.xyz/1.23.0/#download)           Removes tracking from links
 - [TamperMonkey](https://www.tampermonkey.net/)     Patches your browser with userscripts
 - [Indie Wiki Buddy](https://getindie.wiki/)   Changes *fandom.wiki* links to independent ones
 

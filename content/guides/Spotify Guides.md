@@ -1,5 +1,5 @@
->[!Note]
-> Choose whatever you want. I linked the guides for OS that aint here
+ Choose whatever you want. I linked the guides for OS that aint here
+
 ## Removing Ads using Block The Spot (Windows)
 
 1. Download [BlockTheSpot](https://github.com/Nuzair46/BlockTheSpot-Installer) 
@@ -9,7 +9,6 @@
 
 ## Patching Spotify Using Spicetify (Windows)
 
->[!Tip]
 >Visit [Spicetify](https://spicetify.app/docs/getting-started) for the whole documentation.
 
 1. Press win + x, and run Powershell / Terminal.
@@ -24,6 +23,6 @@ iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
 
 ## Installing Revanced for Android
 
-1. 
+Refer to this [documentation](https://github.com/ReVanced/revanced-manager/tree/main/docs). My android phone broke so I am not currently familiar with the current process with revanced.
 
 ## Sideloading Spotify for IOS

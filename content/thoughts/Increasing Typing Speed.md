@@ -6,4 +6,4 @@ While searching for weird or functional websites to add to my collection, I came
 
 ![[Pasted image 20260223220648.png]]
 
-My starting speed is around 54 WPM whereas my starting accuracy is at 96.79%.  My goal is to reach an average of 80 WPM while still maintaining high accuracy. After two days of usage, my average WPM went up at around 60. 
+My starting speed was around 54 WPM whereas my starting accuracy was at 96.79%.  My goal is to reach an average of 80 WPM while still maintaining high accuracy. After two days of usage, my average WPM went up at around 60. 
