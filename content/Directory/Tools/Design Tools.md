@@ -6,10 +6,23 @@
 - **[BrandColors](https://brandcolors.net/)** Incomplete but official color codes for the world's biggest brands.
 
 # Fonts
-- **[PhotoPea](https://www.photopea.com/)** General Editing (Adobe but Free)
-- **[GIMP](https://www.gimp.org/)** Free & Open Source Image Editor
-- **[Remove Background](https://www.photopea.com/)** Removes background of images
-- **[Annotately](https://www.gimp.org/)** Web based screenshot annotation and markup tool.
+|                                                                                   |                                 |
+| --------------------------------------------------------------------------------- | ------------------------------- |
+| [Google Fonts](https://fonts.google.com/)                                         |                                 |
+| [indestructible type*](https://indestructibletype.com/)                           | An open-source font foundry<br> |
+| [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)           | The Open-Source Type Movement   |
+| [Behance : Free Fonts](https://www.behance.net/search/projects?search=free+fonts) | Adobe                           |
+# Icons
+
+|                                                                |                                                                                                  |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [Noun Project](https://thenounproject.com/)                    | Free Icons & Stock Photos                                                                        |
+| [Bootstrap Icons](https://icons.getbootstrap.com/)             | Official open source SVG icon library for Bootstrap                                              |
+| [Boxicons](https://boxicons.com/)                              | Simple vector iconset with 1000+ icons and 100+ logos                                            |
+| [CSS Icons](https://css.gg/app)                                | Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API.            |
+| [Feather](https://feathericons.com/)                           | open source icons                                                                                |
+| [Flaticon](https://www.flaticon.com/)                          | largest database of free vector icons<br>                                                        |
+| [Teenyicons — Tiny minimal 1px icons](https://teenyicons.com/) | 1000+ MIT-licensed SVG icons that easily fit in very small spaces 🤏 and maintain a crisp look ✨ |
 
 # Stock Images
 > [!tip]
