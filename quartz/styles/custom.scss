@@ -1,3 +1,14 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+.platform-tag {
+  font-size: 0.75rem;
+  font-family: var(--font-mono);
+  padding: 1px 6px;
+  border: 1px solid #333;
+  color: #888;
+  border-radius: 10px;
+  margin-right: 4px;
+  vertical-align: middle;
+}
